@@ -4,3 +4,4 @@ def myfun():
     guru = "Sadguru"
     print ("I love you", guru)
 myfun()
+print(guru)
