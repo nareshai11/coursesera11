@@ -5,4 +5,4 @@ curve_amount = 10
 curved_grades = [score + curve_amount for score in exam_scores]
 print("Original scores:", exam_scores)
 print("Curved scores:", curved_grades)
-print(exam_scores, "is" ,curved_grades)
+print(exam_scores, "is not" ,curved_grades)
