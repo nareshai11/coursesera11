@@ -10,4 +10,4 @@ for celsius in celsius_temperatures:  # Start the loop (do not modify this line)
 
 # Print the results (including the output from Step 1 - do not modify)
 print("Celsius Temperatures:", celsius_temperatures)
-print("Fahrenheit Temperatures:", fahrenheit_temperatures)
+print("Fahrenheit Temperatures is:", fahrenheit_temperatures)
