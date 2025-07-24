@@ -5,4 +5,4 @@ print("The number of family members is:", list_length)
 print("Naresh's Father is", list[2])
 print("All family members", list)
 for family_member in list:
-    print("Mui Bandana bollariu 'Dhog diya'", family_member)
+    print("Mui Bandana bollariu 'Dhog  diya'", family_member)
