@@ -4,5 +4,5 @@ index = 0
 
 while index < len(list):
     if list[index] % 2 == 0:
-        print ("The list of even numbers looks like:", list[index])
+        print ("The list of even numbers looks like\:", list[index])
     index += 1
