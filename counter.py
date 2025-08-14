@@ -5,4 +5,4 @@ while counter >= 0:
         print("Halfway point reached!")
     counter -= 1
     print ("I am Naresh")
-    print ("I am Naresh")
+    
