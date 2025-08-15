@@ -3,4 +3,4 @@ if choc_price < 10:
     print("I perfer to buy")
 else:
     print("I don't perfer to buy")
-    print(" I love sooo very very you")
+    print(" I love sooo very you")
