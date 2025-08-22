@@ -2,6 +2,6 @@ guru = str(input("Enter guru's name:"))
 print("I love you", guru)
 def myfun():
     guru = "Sadguru"
-    print ("I love so very you much", guru)
+    print ("I love very you much", guru)
 myfun()
 print(guru)
