@@ -6,4 +6,4 @@ elif 10 <= Temperature < 20:
 elif 20 <= Temperature < 30:
     print("It's hot, Stay hydrated")
 else:
-    print("It's Warm,Enjoy your day !")
+    print("It's  Warm,Enjoy your day !")
